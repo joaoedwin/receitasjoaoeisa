@@ -1,0 +1,17 @@
+.pessoa__imagem {
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.pessoa__imagem--joao{
+    background-image: url('../../img/pessoas/joao.jpg');
+}
+
+.pessoa__imagem--isabela{
+    background-image: url('../../img/pessoas/isabela.jpg');
+}
